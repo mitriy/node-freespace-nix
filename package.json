@@ -1,0 +1,20 @@
+{
+  "name": "freespace-nix",
+  "version": "0.0.1",
+  "description": "Gets disk usage info: directory size, free space. *nix os family only",
+  "repository": "https://github.com/mitriy/node-freespace-nix.git",
+  "main": "lib/index.js",
+  "keywords": [
+    "free",
+    "space",
+    "directory",
+    "size",
+    "df",
+    "du"
+  ],
+  "author": "Dmitriy Kuzikov",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.6.0"
+  }
+}
